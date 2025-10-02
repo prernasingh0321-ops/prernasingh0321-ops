@@ -9,13 +9,12 @@ Welcome to my GitHub profile!
 - **Web Development**
   - Experienced with HTML, CSS, JavaScript, and React.
   - Building dynamic websites and web applications.
-  - Familiar with backend technologies like Node.js and Express.
-  - Working with REST APIs and modern front-end frameworks.
+  
 
 - **Algorithms**
   - Studying data structures and algorithms to improve problem-solving skills.
   - Practicing coding challenges on platforms like LeetCode and HackerRank.
-  - Interested in optimization, searching, and sorting techniques.
+
 
 ---
 
