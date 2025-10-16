@@ -3,7 +3,6 @@
 Welcome to my GitHub profile!
 
 ---
-[![An image of @prernasingh0321ops's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prernasingh0321ops)](https://holopin.io/@prernasingh0321ops)
 
 ## 🚀 **Key Points of My Learning**
 
@@ -35,3 +34,5 @@ Welcome to my GitHub profile!
 ---
 
 Feel free to check out my repositories, star projects you find useful, or reach out for collaboration!
+[![An image of @prernasingh0321ops's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prernasingh0321ops)](https://holopin.io/@prernasingh0321ops)
+
