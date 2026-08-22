@@ -17,7 +17,7 @@
 - 🌐 Building projects with the **MERN stack** (MongoDB, Express, React, Node.js) and **Next.js**
 - 🤖 Also into **embedded systems & robotics** 
 - 🏆 Open-source contributor — **Hacktoberfest** & **GSSoC (GirlScript Summer of Code)**
-- 📫 Reach me at **kumariprerna2102@gmail.com**
+- 📫 Reach me at **prernasingh0321@gmail.com**
 
 <br/>
 
