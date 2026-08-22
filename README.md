@@ -15,8 +15,7 @@
 - 🎓 2nd-year **B.Tech, Automation & Robotics Engineering**, Army Institute of Technology (AIT), Pune
 - 💻 Passionate about **Software Engineering**, **Full-Stack Web Development**, and **DSA**
 - 🌐 Building projects with the **MERN stack** (MongoDB, Express, React, Node.js) and **Next.js**
-- 🤖 Also into **embedded systems & robotics** — currently building an ESP32-based autonomous firefighting robot
-- 🌱 Core Member & UI/UX Facilitator at **GDG AIT Pune**
+- 🤖 Also into **embedded systems & robotics** 
 - 🏆 Open-source contributor — **Hacktoberfest** & **GSSoC (GirlScript Summer of Code)**
 - 📫 Reach me at **kumariprerna2102@gmail.com**
 
